@@ -1,6 +1,6 @@
 # linkedintypesidebar
 
-This template should help get you started developing with Vue 3 in Vite.
+This is project is for a YouTube video. Video [link](https://youtu.be/8wlpPuDjuoM) 
 
 ## Recommended IDE Setup
 
